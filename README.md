@@ -11,7 +11,7 @@ All commands are run from the root of the project, from a terminal:
 | Command                   | Action                                           |
 | : https// palavra de vida-, harold carvalho.com.br.netlify.com--------------------- | :----------------------------------------------- |
 | `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run dev` https://Github.com/carvharold/astro-pltaform-start92d50-20106   | Starts local dev server at `localhost:4321`      |
 | `npm run build`           | Build your production site to `./dist/`          |
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
