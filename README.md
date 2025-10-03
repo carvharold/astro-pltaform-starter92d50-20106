@@ -9,7 +9,7 @@ A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](http
 All commands are run from the root of the project, from a terminal:
 
 | Command                   | Action                                           |
-| : https// palavra de vida-, harold carvalho.com.br.netlify.com--------------------- | :----------------------------------------------- |
+| : https// palavra de vida-, harold carvalho.com.br.netlify.com------------------- | :----------------------------------------------- |
 | `npm install`             | Installs dependencies                            |
 | `npm run dev` https://Github.com/carvharold/astro-pltaform-start92d50-20106   | Starts local dev server at `localhost:4321`      |
 | `npm run build`           | Build your production site to `./dist/`          |
@@ -39,7 +39,7 @@ npm install netlify-cli@latest -g
 3. Link your local repository to the deployed Netlify site. This will ensure you're using the same runtime version for both local development and your deployed site.
 
 ```
-netlify link
+netlify linkhttps://palavras de vida-haroldcarvalho.com.br- netlify.com 
 ```
 
 4. Then, run the Astro.js development server via Netlify CLI:
