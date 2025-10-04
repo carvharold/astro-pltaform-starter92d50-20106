@@ -1,4 +1,4 @@
-# Astro on Netlify Platform Starter
+b4176d908482c084a007fc820422e0f7b0c5597d# Astro on Netlify Platform Starter
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
 
