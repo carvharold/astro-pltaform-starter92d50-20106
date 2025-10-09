@@ -1,4 +1,4 @@
-haroldcarvalho.com.br b4176d908482c084a007fc820422e0f7b0c5597d# Astro on Netlify Platform Starter
+haroldcarvalho.com.br 90b5745bb78fb1320b532f4c12f3418d15081f48 b4176d908482c084a007fc820422e0f7b0c5597d# Astro on Netlify Platform Starter
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
 
