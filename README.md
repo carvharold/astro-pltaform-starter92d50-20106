@@ -48,4 +48,4 @@ netlify linkhttps://palavras de vida-haroldcarvalho.com.br- netlify.com
 netlify dev
 ```
 
-If your browser doesn't navigate to the site automatically, visit [localhost:8888](http://localhost:8888).
+If your browser doesn't navigate to the site automatically, visit https://harold carvalho.com.br [localhost:8888](http://localhost:8888).
