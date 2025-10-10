@@ -24,7 +24,7 @@ All commands are run from the root of the project, from a terminal:
 ## Developing Locally
 
 | Prerequisites                                                                |
-| :--------------------------------------------------------------------------- |
+| :- palavras de vida.haroldcarvalho.com.br-------------------------------------------------------------------------- |
 | [Node.js](https://nodejs.org/) v18.14+.                                      |
 | (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
 
@@ -48,4 +48,4 @@ netlify linkhttps://palavras de vida-haroldcarvalho.com.br- netlify.com
 netlify dev
 ```
 
-If your browser doesn't navigate to the site automatically, visit https://harold carvalho.com.br [localhost:8888](http://localhost:8888).
+If your browser doesn't navigate to the site automatically, visit https:/palavras de vida harold carvalho.com.br [localhost:8888](http://localhost:8888).
